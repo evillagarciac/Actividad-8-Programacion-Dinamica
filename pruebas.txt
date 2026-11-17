@@ -1,0 +1,37 @@
+
+=== ACTIVIDAD 8 - PROGRAMACION DINAMICA ===
+1. Escaleras
+2. Cambio minimo de monedas
+0. Salir
+Opcion: Numero de escalones (0 a 92): 
+Escalon: 0 1 2 3 4 5 6 
+Formas:   1 1 2 3 5 8 13 
+
+Total: 13 formas.
+
+=== ACTIVIDAD 8 - PROGRAMACION DINAMICA ===
+1. Escaleras
+2. Cambio minimo de monedas
+0. Salir
+Opcion: Cantidad de denominaciones: Moneda 1: Moneda 2: Moneda 3: Monto objetivo (0 a 100000): 
+Monto: 0 1 2 3 4 5 6 7 8 
+DP:    0 1 2 3 1 2 1 2 2 
+
+Minimo de monedas: 2
+Combinacion: 4 + 4
+
+=== ACTIVIDAD 8 - PROGRAMACION DINAMICA ===
+1. Escaleras
+2. Cambio minimo de monedas
+0. Salir
+Opcion: Cantidad de denominaciones: Moneda 1: Moneda 2: Monto objetivo (0 a 100000): 
+Monto: 0 1 2 3 4 5 6 7 
+DP:    0 INF INF INF 1 INF 1 INF 
+
+No existe una combinacion exacta.
+
+=== ACTIVIDAD 8 - PROGRAMACION DINAMICA ===
+1. Escaleras
+2. Cambio minimo de monedas
+0. Salir
+Opcion: Hasta luego.
